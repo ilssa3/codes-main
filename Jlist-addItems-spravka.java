@@ -23,7 +23,7 @@ public class touragencysp extends JFrame {
 	private JTextField txt;
 	
 	int i = 0;
-	int min=999999999;
+	int min=999999;
 	int max;
 	int sr ;
 	int obsh;
